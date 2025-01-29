@@ -1,0 +1,24 @@
+Spring Framework 6 & Spring Boot 3 desde cero a experto
+
+
+Programacion Orientada a Aspectos (AOP):
+
+
+
+Creando proyecto y controller
+08:15
+Añadiendo componente Service
+06:03
+Creando el componente Aspect
+16:04
+Advice After y expresiones regulares o patrones en Pointcut o punto de cortes
+10:31
+Advice AfterReturning y AfterThrowing
+07:23
+Advice Around
+12:43
+Ordenando los Aspectos con @Order
+11:39
+Anotación @Pointcut
+08:16
+Desacoplando métodos anotados con @Pointcut en una clase Aspect separada
