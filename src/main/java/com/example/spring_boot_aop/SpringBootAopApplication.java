@@ -8,6 +8,7 @@ public class SpringBootAopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootAopApplication.class, args);
+		System.out.println("Aplicación en ejecución...");
 	}
 
 }

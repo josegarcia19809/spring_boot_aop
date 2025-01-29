@@ -1,11 +1,11 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
 
-Programacion Orientada a Aspectos (AOP):
+Programacion Orientada a Aspectos (AOP): Creando el controller
 
 
 
-Creando proyecto y controller
+Creando proyecto y
 08:15
 Añadiendo componente Service
 06:03
