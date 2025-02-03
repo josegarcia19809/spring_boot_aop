@@ -1,9 +1,9 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
 
-Programación Orientada a Aspectos (AOP): Creando el componente Aspect
+Programación Orientada a Aspectos (AOP): Advice After y expresiones regulares o patrones en Pointcut o punto de cortes
 
-Advice After y expresiones regulares o patrones en Pointcut o punto de cortes
+
 10:31
 Advice AfterReturning y AfterThrowing
 07:23
