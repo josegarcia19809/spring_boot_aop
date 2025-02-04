@@ -10,4 +10,9 @@ public class GreetingServiceImpl implements GreetingService {
         String greeting =  phrase + " " + person;
         return greeting;
     }
+
+    @Override
+    public String sayHelloError(String person, String phrase) {
+        throw new RuntimeException("Error");
+    }
 }
