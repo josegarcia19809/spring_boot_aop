@@ -1,14 +1,8 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
 
-Programación Orientada a Aspectos (AOP): Advice AfterReturning y AfterThrowing
+Programación Orientada a Aspectos (AOP): Advice Around
 
-
-10:31
-
-07:23
-Advice Around
-12:43
 Ordenando los Aspectos con @Order
 11:39
 Anotación @Pointcut
