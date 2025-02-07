@@ -1,9 +1,9 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
 
-Programación Orientada a Aspectos (AOP): Advice Around
+Programación Orientada a Aspectos (AOP): Ordenando los Aspectos con @Order
 
-Ordenando los Aspectos con @Order
+
 11:39
 Anotación @Pointcut
 08:16
