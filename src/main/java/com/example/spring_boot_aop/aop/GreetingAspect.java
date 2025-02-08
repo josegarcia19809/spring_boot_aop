@@ -17,7 +17,11 @@ import java.util.Arrays;
 public class GreetingAspect {
     private Logger logger = LoggerFactory.getLogger(GreetingAspect.class);
 
-    @Before("execution(* com.example.spring_boot_aop.services.GreetingService.*(..))")
+    @Pointcut("execution(* com.example.spring_boot_aop.services.GreetingService.*(..))")
+    private void greetingPointcut() {}
+
+
+    @Before("greetingPointcut()")
     public void loggerBefore(JoinPoint joinPoint) {
         String methodName = joinPoint.getSignature().getName();
         String args = Arrays.toString(joinPoint.getArgs());

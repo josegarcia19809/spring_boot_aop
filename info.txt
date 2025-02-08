@@ -1,10 +1,10 @@
 Spring Framework 6 & Spring Boot 3 desde cero a experto
 
 
-Programación Orientada a Aspectos (AOP): Ordenando los Aspectos con @Order
+
 
 
 11:39
-Anotación @Pointcut
+
 08:16
 Desacoplando métodos anotados con @Pointcut en una clase Aspect separada
